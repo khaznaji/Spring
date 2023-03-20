@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55c6eefc-0097-4993-aad8-e6c5b3ca7d91" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Configurations/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Configurations/MyConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Configurations/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/AgencyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/AgentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/ChargeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/CheckoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/HouseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Accomodation/ImageUploadResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Candidacy/CandidacyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Candidacy/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Candidacy/EmailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Candidacy/PdfToTextController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Candidacy/TagController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Offer/HistoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Offer/InteressantController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/Offer/OfferControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/SkillsAndQuizz/QuizController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/SkillsAndQuizz/SkillsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/User/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/User/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/forum/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/forum/MessageForumController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/forum/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/forum/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/ChargeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/CandidacySituation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/CandidacyStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/PdfToTextConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Offer/OfferDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Offer/OfferHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Offer/OfferInteressant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/EtatQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/EtatR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/QuestionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/ResponseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/SkillDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/SkillsAndQuizz/Skills.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/Badge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/roletype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/forum/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/forum/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/forum/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Accomodation/IAgencyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Accomodation/IAgentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Accomodation/IHousesRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Accomodation/ImageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Candidacy/ICandidacyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Candidacy/ICourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Candidacy/IDocumentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Candidacy/ITagReporsitory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Offer/IOffreHistoryRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Offer/IOffreInteressantRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/Offer/IOffreRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/SkillsAndQuizz/QuestionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/SkillsAndQuizz/QuizRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/SkillsAndQuizz/ResponseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/SkillsAndQuizz/SkillsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/User/IRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/forum/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/forum/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/forum/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Security/AuthenticationRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Security/AuthenticationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Security/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Accomodation/AccomodationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Accomodation/IAccomodationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Accomodation/StripeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/CandidacyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/CourseServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/DocumentServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/ICandidacyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/ICourseServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/IDocumentServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/ITagServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/TagServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Candidacy/mailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Offer/IOffreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/Offer/OffreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/SkillsAndQuizz/IServiceQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/SkillsAndQuizz/ISkillsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/SkillsAndQuizz/PDFGeneratorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/SkillsAndQuizz/ServiceQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/SkillsAndQuizz/SkillsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/AuthenticationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/IJwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/forum/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/forum/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/forum/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Util/ImageUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/resources/templates/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/resources/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/ClaimController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/ClaimController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/EventsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/EventsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/TwillioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Controllers/EventsAndComplaints/TwillioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Agency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Agency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Accomodation/Houses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Candidacy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Candidacy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/CourseTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/CourseTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/OfferTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/OfferTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Tags.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/CandidatesAndCourses/Tags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/EventsAndComplaints/Events.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/EventsAndComplaints/Events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Offer/Offer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Offer/Offer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/EtatQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/EtatR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/Quizz/Skills.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Entities/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/InterMoveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/InterMoveApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/EventsAndComplaints/ClaimRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/EventsAndComplaints/ClaimRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/User/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Repositories/User/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/ClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/ClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/DuplicateComplainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/DuplicateComplainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/EventService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/EventService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/IClaimService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/IClaimService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/IEventsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/IEventsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/MostComplainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/MostComplainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/TwillioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/TwillioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/TwillioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/EventsAndComplaints/TwillioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/java/com/example/intermove/Services/UserService/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/MvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/MvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/TwilioConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/TwilioConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/WebSocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Configurations/WebSocketConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/ClaimController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/ClaimController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/EventsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/EventsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MapController$Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MapController$Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MapController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MapController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/MessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/TwillioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/TwillioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/WebSocketEventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Controllers/EventsAndComplaints/WebSocketEventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/Agency.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/Agency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/Agent.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/Agent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/Houses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/TypeHouses.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Accomodation/TypeHouses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Candidacy.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Candidacy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/CourseTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/CourseTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/OfferTag.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/OfferTag.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Tags.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/CandidatesAndCourses/Tags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Domain.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Domain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ChatMessage$MessageType.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ChatMessage$MessageType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ChatMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ChatMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Claim.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Claim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Events.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Events.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ModaliteEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/ModaliteEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/QRCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/QRCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/TypeClaim.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/TypeClaim.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/TypeEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/EventsAndComplaints/TypeEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Offer/Offer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Offer/Offer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/EtatQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/EtatR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/Quiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/Response.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/Quizz/Skills.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/User/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/User/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/User/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Entities/User/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/InterMoveApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/InterMoveApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Proprety/FileStorageProperties.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Proprety/FileStorageProperties.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/ClaimRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/ClaimRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/EventRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/EventRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/QRCodeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/EventsAndComplaints/QRCodeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/User/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Repositories/User/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/ClaimService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/ClaimService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/DuplicateComplainers.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/DuplicateComplainers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EventExcelGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EventExcelGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EventService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/EventService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IClaimService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IClaimService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IEventsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IEventsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IQRCodeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/IQRCodeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/MostComplainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/MostComplainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/QRCodeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/QRCodeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/TwillioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/TwillioService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/TwillioServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/EventsAndComplaints/TwillioServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/Files/FileStorageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/Files/FileStorageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/UserService/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/UserService/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/UserService/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/Services/UserService/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/FileStorageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/FileStorageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/MyFileNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/MyFileNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/NotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/NotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/RecordNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/RecordNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Pidev/InterMove/target/classes/com/example/intermove/exception/ResourceNotFoundException.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Pidev" />
+  </component>
+  <component name="ProjectId" id="2Mkava9w61AN4AafQLyKMcuCXWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55c6eefc-0097-4993-aad8-e6c5b3ca7d91" name="Changes" comment="" />
+      <created>1678314266105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678314266105</updated>
+      <workItem from="1678314267536" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
